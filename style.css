@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.contener {
+  
+  height: 125vh;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.photo-wriper {
+  padding: 15px;
+}
+.pictur {
+  width: 200px;
+  display: block;
+  border-radius: 10px;
+  
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.begraund{
+  background-image: url(fire.gif);
+ 
+  
+}
